@@ -54,7 +54,7 @@ export default function App() {
               Réserver une table
             </a>
             <a 
-              href="/Menu Carnot A4+.pdf" 
+              href="/menu.pdf" 
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 md:py-5 bg-white/10 hover:bg-white/20 backdrop-blur-md border border-white/40 text-white rounded-full transition-colors text-sm uppercase tracking-widest font-medium w-full sm:w-auto shadow-lg"
