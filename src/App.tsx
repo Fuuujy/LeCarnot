@@ -223,7 +223,7 @@ export default function App() {
 
           <div className="text-center">
             <a 
-              href="/Menu Carnot A4+.pdf" 
+              href="/Menu%20Carnot%20A4%2B.pdf" 
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-4 border border-stone-300 hover:border-stone-900 text-stone-900 rounded-full transition-colors text-sm uppercase tracking-widest font-medium"
